@@ -22,7 +22,7 @@ To install `sysinfo`, follow these steps:
 
 2. Run the following command to install the JSON Sorter CLI:
 ```bash
-go install github.com/renanramonh/sysinfo
+go install github.com/renanramonh/sysinfo@latest
 ```
 
 3. The executable binary will be placed in your Go binary directory (`$GOPATH/bin`) after this command downloads the source code and compiles it..
